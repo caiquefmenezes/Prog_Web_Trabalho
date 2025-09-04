@@ -48,7 +48,7 @@ bash
 
 	•	Frontend: http://localhost:8080
 	•	Backend API: http://localhost:3000
-	•	Banco de Dados: localhost:5432
+	•	Banco de Dados: http://localhost:5432
 
 Observações
 	•	O backend e frontend estão prontos para uso local, sem necessidade de configuração extra.
