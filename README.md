@@ -1,8 +1,6 @@
-# Projeto Web – Trabalho da Faculdade
+# Projeto Programação Web
 
-Este projeto é uma aplicação web Full Stack organizada em um único repositório, com **backend, frontend e banco de dados**, todos integrados via **Docker Compose**.  
-
-O objetivo é fornecer um **ambiente funcional e fácil de executar**, mostrando como diferentes camadas de um projeto web se conectam.
+Este projeto é uma aplicação web Full Stack organizada em um único repositório, com **backend, frontend e banco de dados**, todos integrados via **Docker Compose**. 
 
 ---
 
